@@ -35,3 +35,4 @@ A static web-page built with HTML, CSS, and JavaScript. Demonstrating clear and 
 ![Homepage](images/homepage.png)
 
 ## Live Demo
+Coming soon
