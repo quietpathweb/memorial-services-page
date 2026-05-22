@@ -23,7 +23,6 @@ A static web-page built with HTML, CSS, and JavaScript. Demonstrating clear and 
 ## Future Implementation?
 - Improve accessibility (ARIA roles)
 - Obituary page with search/filter functionality
-- Images and animations with descriptive alt text
 
 ## HTML Preview
 ![VS Code](images/vscode-html.png)
