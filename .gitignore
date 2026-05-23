@@ -1,0 +1,15 @@
+*
+!README.md
+!.gitignore
+
+# ignore editor + system junk
+.vscode/
+.vscode-shared/
+.local/
+
+# ignore dependencies
+node_modules
+
+# ignore env files
+.env
+.env*
