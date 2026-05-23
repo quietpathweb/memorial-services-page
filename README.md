@@ -34,4 +34,4 @@ A static web-page built with HTML, CSS, and JavaScript. Demonstrating clear and 
 ![Homepage](images/homepage.png)
 
 ## Live Demo
-[Visit Website] (www.quietpath.dev)
+[Visit Website] (www.quietpathweb.dev)
