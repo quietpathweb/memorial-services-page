@@ -1,6 +1,7 @@
 *
 !README.md
 !.gitignore
+!vercel.json
 
 # ignore editor + system junk
 .vscode/
