@@ -1,14 +1,13 @@
 {
-    "version": 2,
-    "routes": [
+    "headers": [
         {
-          "src": "/(.*)",
-          "headers": {
-            "X-Frame-Options": "DENY",
-            "X-Content-Type-Options": "nosniff",
-            "Referrer-Policy": "strict-origin-when-cross-origin",
-            "Strict-Transport-Security": "max-age=31536000; includeSubDomains"
-          }
+            "source": "/(.*)",
+            "headers": [
+                {
+                    "key": "x-test-header",
+                    "value": "hello-world"
+                }
+            ]
         }
     ]
 }
